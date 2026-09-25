@@ -70,7 +70,7 @@ Python · TensorFlow / Keras · MobileNetV2 · scikit-learn · NumPy · Pillow �
 
 | File | Description |
 |---|---|
-| `MoodCloset.ipynb` | Full pipeline: training, colour extraction, undertone detection, recommendation engine, and Gradio app |
+| `Moodcloset.ipynb` | Full pipeline: training, colour extraction, undertone detection, recommendation engine, and Gradio app |
 | `moodcloset_model.h5` | Trained MobileNetV2 clothing classifier |
 | `AI_Final_Project_Report.pdf` | Technical report |
 | `AI_Project_Presentation.pptx` | Project presentation |
@@ -78,6 +78,6 @@ Python · TensorFlow / Keras · MobileNetV2 · scikit-learn · NumPy · Pillow �
 
 ## Run It
 
-1. Open `MoodCloset.ipynb` in [Google Colab](https://colab.research.google.com/)
+1. Open `Moodcloset.ipynb` in [Google Colab](https://colab.research.google.com/)
 2. Install the dependencies: `pip install -r requirements.txt`
 3. Run all cells. The last cell launches the Gradio interface with a shareable link.
