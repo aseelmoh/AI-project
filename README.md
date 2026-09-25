@@ -18,7 +18,9 @@ Most fashion recommenders rely on purchase history or text searches. They ignore
 ## How It Works
 
 MoodCloset is a hybrid pipeline that combines deep learning, classic image processing, and rule-based logic. Each stage feeds the next:
+
 ![MoodCloset pipeline](architecture.png)
+
 
 | Stage | What it does | Technique |
 |---|---|---|
@@ -73,8 +75,8 @@ Python · TensorFlow / Keras · MobileNetV2 · scikit-learn · NumPy · Pillow �
 |---|---|
 | `Moodcloset.ipynb` | Full pipeline: training, colour extraction, undertone detection, recommendation engine, and Gradio app |
 | `moodcloset_model.h5` | Trained MobileNetV2 clothing classifier |
-| `AI_Final_Project_Report.pdf` | Technical report |
-| `AI_Project_Presentation.pptx` | Project presentation |
+| `AI final project report .pdf` | Technical report |
+| `AIProjectPresenation.pptx` | Project presentation |
 | `requirements.txt` | Python dependencies |
 
 ## Run It
