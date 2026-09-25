@@ -18,6 +18,7 @@ Most fashion recommenders rely on purchase history or text searches. They ignore
 ## How It Works
 
 MoodCloset is a hybrid pipeline that combines deep learning, classic image processing, and rule-based logic. Each stage feeds the next:
+![MoodCloset pipeline](architecture.png)
 
 | Stage | What it does | Technique |
 |---|---|---|
